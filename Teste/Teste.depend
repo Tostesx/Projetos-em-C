@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1686783300 source:c:\users\veloxshop\downloads\conteúdo das aulas\codeblocks\teste\main.c
+	<stdio.h>
+	<stdlib.h>
+
